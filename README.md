@@ -22,4 +22,5 @@
 - [options.py](https://github.com/Anderson-A/monodepth2/blame/master/options.py): added capability to use NYU Depth 2 during training and evaluation
 - [trainer.py](https://github.com/Anderson-A/monodepth2/blame/master/trainer.py): added capability to train on NYU Depth 2
 
-[**To setup and run model refer to this repo, the original fork of this repository:**](https://github.com/nianticlabs/monodepth2)
+[**To setup and run model refer to this repo, the original fork of this repository**](https://github.com/nianticlabs/monodepth2)
+[**To download models in the experiment, download the zip at this link**[(https://drive.google.com/file/d/1ss4oovBcncZv8GlvDTTv1NP6LMhG1JA8/view?usp=sharing)
